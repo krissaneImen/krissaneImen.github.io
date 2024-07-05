@@ -7,7 +7,6 @@ Bienvenue sur mon portfolio en ligne! Ce dépôt contient le code source de mon 
 - `index.html` : Page d'accueil de mon portfolio.
 - `style.css` : Fichier de style CSS pour la mise en forme du portfolio.
 - `js/` : Dossier contenant les fichiers JavaScript pour les interactions et animations.
-  - `script.js` : Fichier JavaScript principal.
 - `images/` : Dossier contenant les images utilisées dans le portfolio.
 - `fonts/` : Dossier contenant les polices personnalisées.
 - `uploads/` : Dossier contenant les fichiers téléchargeables.
@@ -41,4 +40,4 @@ Les contributions sont les bienvenues! Si vous avez des suggestions ou des amél
 
 ## Contact
 
-Pour toute question ou information supplémentaire, vous pouvez me contacter à l'adresse suivante : [imen.krissane@example.com](mailto:imen.krissane@example.com)
+Pour toute question ou information supplémentaire, vous pouvez me contacter à l'adresse suivante : [imen.krissane@example.com](mailto:krissaane.imen.95@gmail.com)
